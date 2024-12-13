@@ -1,0 +1,7 @@
+ .terraform/providers/registry.terraform.io/hashicorp/local/2.5.2/windows_amd64/terraform-provider-local_v2.5.2_x5.exe
+ Html/.terraform/providers/registry.terraform.io/kreuzwerker/docker/2.25.0/windows_amd64/terraform-provider-docker_v2.25.0.exe
+ *.exe
+aws/.terraform/providers/registry.terraform.io/hashicorp/aws/5.80.0/windows_amd64/terraform-provider-aws_v5.80.0_x5.exe
+ec-2/.terraform/providers/registry.terraform.io/hashicorp/aws/5.80.0/windows_amd64/terraform-provider-aws_v5.80.0_x5.exe
+s3/.terraform/providers/registry.terraform.io/hashicorp/aws/5.80.0/windows_amd64/terraform-provider-aws_v5.80.0_x5.exe
+vpc/.terraform/providers/registry.terraform.io/hashicorp/aws/5.80.0/windows_amd64/terraform-provider-aws_v5.80.0_x5.exe
